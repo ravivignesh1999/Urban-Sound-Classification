@@ -63,8 +63,3 @@ The Urban Sound Classification project demonstrates the effectiveness of deep le
 - Using more advanced architectures like Recurrent Neural Networks (RNNs) for sequence learning
 - Implementing additional data augmentation techniques to enhance robustness
 - Employing advanced feature representation techniques are chroma stft and mel spectrograms
-
-## References
-- [UrbanSound8K Dataset](https://urbansounddataset.weebly.com/urbansound8k.html)
-- Salamon, J., Jacoby, C., & Bello, J. P. (2014). A Dataset and Taxonomy for Urban Sound Research. *Proceedings of the 22nd ACM international conference on Multimedia*.
-
